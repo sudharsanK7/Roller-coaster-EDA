@@ -4,8 +4,8 @@ Overview
 This repository contains code and documentation for conducting exploratory data analysis (EDA) on a roller coaster dataset. The EDA was performed using industry-standard Python libraries including Pandas, Matplotlib, and Seaborn.
 
 Contents
-roller_coaster_data.csv: The dataset used for analysis.
-roller_coaster_eda.ipynb: Jupyter Notebook containing the Python code for EDA.
+coaster_db.csv: The dataset used for analysis.
+Exploratory Data Analysis.ipynb: Jupyter Notebook containing the Python code for EDA.
 README.md: This file providing an overview of the project.
 
 Steps Taken
